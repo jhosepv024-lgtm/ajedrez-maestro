@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" role="img" aria-label="Ajedrez Maestro">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ffd85a"/><stop offset="1" stop-color="#b98516"/></linearGradient>
+</defs>
+<rect width="520" height="160" fill="none"/>
+<path d="M70 14 122 34v38c0 36-21 61-52 76-31-15-52-40-52-76V34L70 14z" fill="none" stroke="url(#g)" stroke-width="8"/>
+<circle cx="70" cy="55" r="18" fill="url(#g)"/>
+<path d="M51 93h38l-8 25H59z" fill="url(#g)"/>
+<path d="M43 80h54v13H43z" fill="url(#g)"/>
+<text x="150" y="67" font-family="Georgia,serif" font-weight="800" font-size="42" letter-spacing="6" fill="#fff">AJEDREZ</text>
+<text x="151" y="116" font-family="Georgia,serif" font-weight="800" font-size="34" letter-spacing="10" fill="url(#g)">MAESTRO</text>
+</svg>
